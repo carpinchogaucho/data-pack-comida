@@ -1,0 +1,14 @@
+{
+    "type":"crafting_shaped",
+    "pottern":[
+        "PtO",
+        "PtO",
+        "PtO"
+    ],
+    "key":{
+        "P":{"item":"minecraft:glass_bottle"},
+        "t":{"item":"minecraft:water_bucket"},
+        "O":{"item":"minecraft:bottle_honey"}
+    },
+    "result":{"item":"minecraft:knowledge_book","count":2}
+}

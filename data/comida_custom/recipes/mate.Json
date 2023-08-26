@@ -1,0 +1,14 @@
+{
+    "type":"crafting_shaped",
+    "pottern":[
+        "RPp",
+        "RPp",
+        "RPp"
+    ],
+    "key":{
+        "R":{"item":"minecraft:beetroot"},
+        "P":{"item":"minecraft:cooked_chicken"},
+        "p":{"item":"minecraft:bread"}
+    },
+    "result":{"item":"minecraft:knowledge_book","count":1}
+}

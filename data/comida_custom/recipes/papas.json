@@ -1,0 +1,14 @@
+{
+    "type":"crafting_shaped",
+    "pottern":[
+        "top",
+        "top",
+        "top"
+    ],
+    "key":{
+        "t":{"item":"minecraft:sand"},
+        "o":{"item":"minecraft:melon"},
+        "p":{"item":"minecraft:iron_block"}
+    },
+    "result":{"item":"minecraft:knowledge_book","count":3}
+}

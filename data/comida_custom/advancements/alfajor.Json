@@ -1,0 +1,13 @@
+{
+    "criteria": {
+    "requirement": {
+        "trigger": "minecraft:recipe_unlocked",
+        "conditions": {
+        "recipe": "comida_custom:alfajor"
+        }
+    }
+    },
+    "rewards": {
+    "function": "comida_custom:alfajor"
+    }
+}
